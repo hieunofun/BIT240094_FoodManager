@@ -1,0 +1,121 @@
+[
+  {
+    "BIT240094_Revision": 1,
+    "BIT240094_IsDeleted": false,
+    "BIT240094_UpdatedAt": "2026-10-20T00:00:00.000Z",
+    "BIT240094_Id": "bit240094-salad",
+    "BIT240094_Name": "Garden harvest salad",
+    "BIT240094_Price": 65000,
+    "BIT240094_PreparationTime": 10,
+    "BIT240094_IsAvailable": true,
+    "BIT240094_Description": "A colorful mix of seasonal greens, cherry tomatoes and crisp vegetables, finished with a bright lemon dressing.",
+    "BIT240094_DishCategoryId": "bit240094-starters",
+    "BIT240094_DishImage": [
+      {
+        "BIT240094_Id": "salad-1",
+        "BIT240094_ImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=85",
+        "BIT240094_IsThumbnail": true
+      }
+    ]
+  },
+  {
+    "BIT240094_Revision": 1,
+    "BIT240094_IsDeleted": false,
+    "BIT240094_UpdatedAt": "2026-10-20T00:00:00.000Z",
+    "BIT240094_Id": "bit240094-pasta",
+    "BIT240094_Name": "Basil pesto pasta",
+    "BIT240094_Price": 125000,
+    "BIT240094_PreparationTime": 20,
+    "BIT240094_IsAvailable": true,
+    "BIT240094_Description": "Pasta tossed with fresh basil pesto, parmesan and a little extra virgin olive oil. Made to order.",
+    "BIT240094_DishCategoryId": "bit240094-mains",
+    "BIT240094_DishImage": [
+      {
+        "BIT240094_Id": "pasta-1",
+        "BIT240094_ImageUrl": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?auto=format&fit=crop&w=900&q=85",
+        "BIT240094_IsThumbnail": true
+      },
+      {
+        "BIT240094_Id": "pasta-2",
+        "BIT240094_ImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=85",
+        "BIT240094_IsThumbnail": false
+      }
+    ]
+  },
+  {
+    "BIT240094_Revision": 1,
+    "BIT240094_IsDeleted": false,
+    "BIT240094_UpdatedAt": "2026-10-20T00:00:00.000Z",
+    "BIT240094_Id": "bit240094-burger",
+    "BIT240094_Name": "House beef burger",
+    "BIT240094_Price": 145000,
+    "BIT240094_PreparationTime": 25,
+    "BIT240094_IsAvailable": true,
+    "BIT240094_Description": "Grilled beef, melted cheese and crunchy vegetables in a toasted bun. Served with our house sauce.",
+    "BIT240094_DishCategoryId": "bit240094-mains",
+    "BIT240094_DishImage": [
+      {
+        "BIT240094_Id": "burger-1",
+        "BIT240094_ImageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85",
+        "BIT240094_IsThumbnail": true
+      }
+    ]
+  },
+  {
+    "BIT240094_Revision": 1,
+    "BIT240094_IsDeleted": false,
+    "BIT240094_UpdatedAt": "2026-10-20T00:00:00.000Z",
+    "BIT240094_Id": "bit240094-pizza",
+    "BIT240094_Name": "Classic margherita",
+    "BIT240094_Price": 165000,
+    "BIT240094_PreparationTime": 30,
+    "BIT240094_IsAvailable": false,
+    "BIT240094_Description": "A crisp crust with tomato sauce, mozzarella and basil. Temporarily unavailable while we prepare a new batch of dough.",
+    "BIT240094_DishCategoryId": "bit240094-mains",
+    "BIT240094_DishImage": [
+      {
+        "BIT240094_Id": "pizza-1",
+        "BIT240094_ImageUrl": "https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=900&q=85",
+        "BIT240094_IsThumbnail": true
+      }
+    ]
+  },
+  {
+    "BIT240094_Revision": 1,
+    "BIT240094_IsDeleted": false,
+    "BIT240094_UpdatedAt": "2026-10-20T00:00:00.000Z",
+    "BIT240094_Id": "bit240094-pancakes",
+    "BIT240094_Name": "Sunday pancakes",
+    "BIT240094_Price": 85000,
+    "BIT240094_PreparationTime": 15,
+    "BIT240094_IsAvailable": true,
+    "BIT240094_Description": "Fluffy pancakes with a drizzle of syrup. A little comfort, any day of the week.",
+    "BIT240094_DishCategoryId": "bit240094-desserts",
+    "BIT240094_DishImage": [
+      {
+        "BIT240094_Id": "pancakes-1",
+        "BIT240094_ImageUrl": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=900&q=85",
+        "BIT240094_IsThumbnail": true
+      }
+    ]
+  },
+  {
+    "BIT240094_Revision": 1,
+    "BIT240094_IsDeleted": false,
+    "BIT240094_UpdatedAt": "2026-10-20T00:00:00.000Z",
+    "BIT240094_Id": "bit240094-cake",
+    "BIT240094_Name": "Chocolate celebration cake",
+    "BIT240094_Price": 75000,
+    "BIT240094_PreparationTime": 8,
+    "BIT240094_IsAvailable": true,
+    "BIT240094_Description": "A slice of rich chocolate cake with a soft crumb and smooth chocolate frosting.",
+    "BIT240094_DishCategoryId": "bit240094-desserts",
+    "BIT240094_DishImage": [
+      {
+        "BIT240094_Id": "cake-1",
+        "BIT240094_ImageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=900&q=85",
+        "BIT240094_IsThumbnail": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "BIT240094_Revision": 1,
+    "BIT240094_IsDeleted": false,
+    "BIT240094_UpdatedAt": "2026-10-20T00:00:00.000Z",
+    "BIT240094_Id": "bit240094-starters",
+    "BIT240094_Name": "Starters",
+    "BIT240094_Description": "Fresh beginnings and light bites."
+  },
+  {
+    "BIT240094_Revision": 1,
+    "BIT240094_IsDeleted": false,
+    "BIT240094_UpdatedAt": "2026-10-20T00:00:00.000Z",
+    "BIT240094_Id": "bit240094-mains",
+    "BIT240094_Name": "Main courses",
+    "BIT240094_Description": "The heart of a good meal."
+  },
+  {
+    "BIT240094_Revision": 1,
+    "BIT240094_IsDeleted": false,
+    "BIT240094_UpdatedAt": "2026-10-20T00:00:00.000Z",
+    "BIT240094_Id": "bit240094-desserts",
+    "BIT240094_Name": "Desserts",
+    "BIT240094_Description": "Something sweet to finish."
+  }
+]
